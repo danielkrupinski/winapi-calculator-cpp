@@ -1,1 +1,1 @@
-# Calculator in C++ using WinAPI
+# winapi-calculator-cpp
